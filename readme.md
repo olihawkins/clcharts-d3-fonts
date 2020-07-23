@@ -1,6 +1,6 @@
 # clcharts-d3-fonts
 
-This project builds the font bundle needed for charts in the clcharts-d3 family. Note that the font files themselves are not included in this repository for licensing reasons. The following web font files should be copied into the directory "src/fonts" in order to build the bundle.
+This project builds the font bundle for charts in the clcharts-d3 family. Note that the font files themselves are not included in this repository for licensing reasons. The following web font files should be copied into the directory "src/fonts" in order to build the bundle.
 
 ```sh
 National-LFSN-Book.woff
